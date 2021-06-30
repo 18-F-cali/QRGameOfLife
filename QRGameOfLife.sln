@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31410.414
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRGameOfLife", "QRGameOfLife.csproj", "{F4ED54F1-699A-4E44-91F0-9E6977685E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4ED54F1-699A-4E44-91F0-9E6977685E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4ED54F1-699A-4E44-91F0-9E6977685E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4ED54F1-699A-4E44-91F0-9E6977685E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4ED54F1-699A-4E44-91F0-9E6977685E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65008E0D-A0C0-423D-A6DC-F2120407E2AB}
+	EndGlobalSection
+EndGlobal
